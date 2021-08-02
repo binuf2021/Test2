@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 using gitbash
 okay
 
 
+=======
+HI THIS ON GITHUB TO EC2 INSTANCE
+>>>>>>> ad86f733f2fd4f8224a79d8c2c50cc8a2bdd0219
 
 So lets rock and role 
 Why it seems easy
